@@ -348,4 +348,3 @@ if st.session_state.analyzer.signals:
         """, unsafe_allow_html=True)
 else:
     st.info("Registre resultados para gerar sugestões. Após 2+ jogos, as previsões aparecerão aqui.")
-
